@@ -30,7 +30,7 @@
 Feel free to contribute, and contact me for any issues.
 Developed By
 ------------
-* Javier Gonzalez Cabezas - <javiergonzalezcabezas@gmail.com>
+* Javier González Cabezas - <javiergonzalezcabezas@gmail.com>
 
 <a href="https://es.linkedin.com/in/javier-gonz%C3%A1lez-cabezas-8b4b2231">
   <img alt="Add me to Linkedin" src="https://github.com/JorgeCastilloPrz/EasyMVP/blob/master/art/linkedin.png" />
