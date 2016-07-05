@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Dagger2RetrofitMVPButterknif</string>
+    <string name="app_name">Dagger2 Retrofit MVP Butterknife</string>
 
     <string name="action_settings">Settings</string>
     <string name="activity_login_user_name">username</string>
@@ -8,5 +8,6 @@
     <string name="activity_login_username_error">Username cannot be empty</string>
     <string name="activity_login_password_error">Password cannot be empty</string>
     <string name="activity_login_server_error">Server error</string>
+    <string name="activity_main_link">TheDeveloperWorldIsYours.com</string>
 
 </resources>
